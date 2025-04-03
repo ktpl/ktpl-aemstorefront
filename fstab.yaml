@@ -1,9 +1,3 @@
 mountpoints:
   /: https://drive.google.com/drive/folders/19D-9ebr_L5Q8B9Uyh7mHXLv4QfY3UKE-
 # mountpoints:
-#   /:
-#     url: https://content.da.live/manavluhar/commerce-eds/
-#     type: markup
-
-folders:
-  /products/: /products/default
